@@ -1,0 +1,9 @@
+kodzi-title = "Jim List"
+
+# The format is odzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
+
+
+kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://i.imgur.com/OzuRvUkl.jpg"
+kodzi-name = "Opensubtitles", url = "https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles"
+kodzi-name = "Nixgates Repo", url = "https://nixgates.github.io/packages/nixgates.repository.zip"
+kodzi-name = "Supermacy Repo", url = "http://supremacy.org.uk/zip/repo/repository.supremacy-2.6.zip"

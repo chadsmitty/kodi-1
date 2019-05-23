@@ -11,7 +11,7 @@ kodzi-name = "OpenMeta Repo", url = "https://drinfernoo.github.io/repository.ope
 kodzi-name = "Opensubtitles", url = "https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles"
 kodzi-name = "Nixgates Repo", url = "https://nixgates.github.io/packages/nixgates.repository.zip"
 kodzi-name = "Supermacy Repo", url = "http://supremacy.org.uk/zip/repo/repository.supremacy-2.6.zip"
-kodzi-name = "Netflix Repo", url = "https://github.com/kodinerds/repo/raw/master/repository.netflix/repository.netflix-1.0.1.zip"
+kodzi-name = "Netflix Repo", url = "https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip"
 kodzi-name = "Sparkle", url = "https://github.com/iwannabelikemike/plugin.video.sparkle" 
 kodzi-name = "Subtitles.gr", url = "https://github.com/Twilight0/service.subtitles.subtitles.gr/releases/download/1.7.0b2/service.subtitles.subtitles.gr-1.7.0.beta2.zip"
 kodzi-name = "Venom Repo", url = "https://123venom.github.io/repository.venom-1.6.zip"

@@ -3,7 +3,7 @@ kodzi-title = "Jim List"
 # The format is odzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
 
 kodzi-name = "Gaia Repo", url = "https://repo.gaiakodi.com/repository.gaia.zip"
-kodzi-name = "AliveGr Repo", url = "https://alivegr.net/master/repository.thgiliwt-1.6.0.zip"
+kodzi-name = "AliveGr Repo", url = "https://alivegr.net/master/"
 kodzi-name = "Reaper Repo", url = "https://reddit-reaper.github.io/repo/repository.redditreaper-1.2.zip"
 kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://i.imgur.com/OzuRvUkl.jpg"
 kodzi-name = "Aenema Repo Realizer", url = "https://aenemapy.github.io/repo/repository.aenemapy-2018.01.04.2.zip"

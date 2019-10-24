@@ -1,6 +1,6 @@
 kodzi-title = "Jim List"
 
-# The format is odzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
+# The format is kodzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
 
 kodzi-name = "Nixgates(Seren) Repo", url = "https://nixgates.github.io/packages/nixgates.repository.zip"
 kodzi-name = "Subtitles.gr", url = "https://github.com/Twilight0/service.subtitles.subtitles.gr/releases/download/1.7.0b2/service.subtitles.subtitles.gr-1.7.0.beta2.zip"

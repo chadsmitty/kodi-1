@@ -2,12 +2,13 @@ kodzi-title = "Jim List"
 
 # The format is kodzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
 
-kodzi-name = "Nixgates(Seren) Repo", url = "https://nixgates.github.io/packages/nixgates.repository.zip"
+kodzi-name = "Nixgates(Seren) Repo (http://bit.ly/a4kScrapers)", url = "https://nixgates.github.io/packages/nixgates.repository.zip"
 kodzi-name = "Subtitles.gr", url = "https://github.com/Twilight0/service.subtitles.subtitles.gr/releases/download/1.7.0b2/service.subtitles.subtitles.gr-1.7.0.beta2.zip"
 kodzi-name = "Gaia Repo", url = "https://repo.gaiakodi.com/repository.gaia.zip"
 kodzi-name = "AliveGr Repo", url = "https://alivegr.net/master/"
-kodzi-name = "A4k (Addons4Kodi), url = "https://a4k-openproject.github.io/repository.addons4kodi-1.3.zip"
+kodzi-name = "A4k (Addons4Kodi) (http://bit.ly/openplayers)", url = "https://a4k-openproject.github.io/repository.addons4kodi-1.3.zip"
 kodzi-name = "Foxystreams", url = "https://ruinernin.github.io/kodi/repository.foxystreams-0.0.2.zip"
+kodzi-name = "Netflix repo", url = "https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip"
 kodzi-name = "Reaper Repo", url = "https://reddit-reaper.github.io/repo/repository.redditreaper-1.2.zip"
 kodzi-name = "Aura", url = "https://forum.kodi.tv/showthread.php?tid=328558", img = "https://i.imgur.com/OzuRvUkl.jpg"
 kodzi-name = "Aenema Repo(Realizer)", url = "https://aenemapy.github.io/repo/repository.aenemapy-2018.01.04.2.zip"
@@ -15,4 +16,6 @@ kodzi-name = "Opensubtitles", url = "https://github.com/opensubtitles/service.su
 kodzi-name = "Netflix Repo", url = "https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip"
 kodzi-name = "Sparkle", url = "https://github.com/iwannabelikemike/plugin.video.sparkle" 
 kodzi-name = "Venom Repo", url = "https://123venom.github.io/repository.venom-1.6.zip"
-kodzi-name = "The Crew", url = "https://repo.the-crew.xyz/"
+kodzi-name = "The Crew", url = "https://team-crew.github.io/repository.thecrew-0.0.8.zip"
+kodzi-name = "Streamarmy Repo", url = "http://streamarmy.co.uk/repo/repository.StreamArmy-10.3.zip"
+kodzi-name = "Sportowa TV (Mbebe repo)", url = "https://mbebe.github.io/blomqvist/repository.mbebe.zip"

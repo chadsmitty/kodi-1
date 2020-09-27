@@ -4,7 +4,7 @@ kodzi-title = "Jim List"
 
 kodzi-name = "Nixgates(Seren) Repo (http://bit.ly/a4kScrapers)", url = "https://nixgates.github.io/packages/nixgates.repository.zip"
 kodzi-name = "A4k (Addons4Kodi) (http://bit.ly/openplayers)", url = "https://a4k-openproject.github.io/repository.addons4kodi-1.3.zip"
-kodzi-name = "A4k Subtitles", url = "https://a4k-openproject.github.io"
+kodzi-name = "A4k Subtitles", url = "https://a4k-openproject.github.io/a4kSubtitles/packages/a4kSubtitles-repository.zip"
 kodzi-name = "TheMovieDb Helper (http://bit.ly/tmdbplayers)", url = "https://jurialmunkey.github.io/repository.jurialmunkey/repository.jurialmunkey-1.4-leia.zip"
 kodzi-name = "AliveGr Repo", url = "https://alivegr.net/master/"
 kodzi-name = "Gaia Repo", url = "https://repo.gaiakodi.com/repository.gaia.zip"
